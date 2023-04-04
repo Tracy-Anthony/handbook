@@ -16,7 +16,7 @@ This ensure scheduling of work and operations continue to run smoothly without
 you. When taking over 2 weeks of consecutively seek approval from your manager.
 
 Before you can take time off you should _always_:
-* Log your time off in BambooHR
+* Log your time off in Deel
 * Add an 'Out of office' appointment in your personal Google Calendar, and decline
    all meetings automatically.
 
