@@ -37,7 +37,7 @@ Please use [this template](https://docs.google.com/document/d/1rY0gLLpkOPBVGlMy7
 
 ## After an offer is accepted
 
-Onboarding on our EOR provider, Pilot, takes at least 3 to 4 weeks. The start
+Onboarding on our EOR provider, Deel, takes at least 3 to 4 weeks. The start
 date for a new employee should be at least 3 to 4 weeks out. When a
 [conditional offer](#extending-an-offer) has been accepted you should immediately:
 
